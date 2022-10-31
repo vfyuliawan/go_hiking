@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "420125833100",
+    "project_id": "go-hiking-project",
+    "storage_bucket": "go-hiking-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420125833100:android:f4ca1081e4c6bfde1d48a9",
+        "android_client_info": {
+          "package_name": "com.fadillavicky.go_hiking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420125833100-qi0ibkdg5khhim7qkue34pnlmv6e94ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fadillavicky.go_hiking",
+            "certificate_hash": "a789e505c817a122ea906ea6eaa3d48b3a30ab18"
+          }
+        },
+        {
+          "client_id": "420125833100-5ecb58jpenrf9r6okqtakus9tri3jus0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGU_En3BXYZb-0y25zvUVqiBHZOJ6psRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420125833100-5ecb58jpenrf9r6okqtakus9tri3jus0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
