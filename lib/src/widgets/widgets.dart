@@ -1,0 +1,20 @@
+import 'package:awesome_icons/awesome_icons.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+import 'package:go_hiking/src/models/models.dart';
+import 'package:go_router/go_router.dart';
+import 'package:velocity_x/velocity_x.dart';
+import 'package:go_hiking/src/utilities/utilities.dart';
+
+part 'textfield_widget.dart';
+part 'button_widget.dart';
+part 'custom_appbar_widget.dart';
+part 'header_with_search_widget.dart';
+part 'appbar_widget.dart';
+part 'navigation_drawer_widget.dart';
+part 'app_large_widget.dart';
+part 'responsive_button_widget.dart';
+part 'app_text_widget.dart';
+part 'app_button_widget.dart';
+part 'card_custom_widget.dart';
+part 'select_bar_widget.dart';
